@@ -1,2 +1,2 @@
 # nikronys.github.io
-# Вёрстка главной страницы Google
+Вёрстка главной страницы Google
