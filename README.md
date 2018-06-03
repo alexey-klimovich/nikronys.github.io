@@ -1,2 +1,2 @@
 # nikronys.github.io
-Google home page coding
+Google home page layout
